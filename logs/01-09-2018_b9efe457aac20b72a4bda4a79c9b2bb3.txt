@@ -1,5 +1,0 @@
-Time : 16:02:44
-SQLSTATE[08001]: [Microsoft][ODBC Driver 13 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
-
-Time : 16:02:44
-SQLSTATE[08001]: [Microsoft][ODBC Driver 13 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53]. 
